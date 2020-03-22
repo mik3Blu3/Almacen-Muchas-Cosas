@@ -6,6 +6,7 @@ package com.almacenmuchascosas.entidades;
  */
 public class Entidad {
 
+    private int numero;
     private String NIT;
     private String nombre;
     private String direccion;
@@ -25,10 +26,19 @@ public class Entidad {
      * @param nombre
      * @param direccion
      */
-    public Entidad(String NIT, String nombre, String direccion) {
+    public Entidad(int numero, String NIT, String nombre, String direccion) {
+        this.numero=numero;
         this.NIT = NIT;
         this.nombre = nombre;
         this.direccion = direccion;
+    }
+    
+    public int getNumero() {
+        return numero;
+    }
+
+    public void setNumero(int codigo) {
+        this.numero = numero;
     }
 
     public String getNIT() {
@@ -60,7 +70,8 @@ public class Entidad {
      * Etidad
      */
     public void printMe() {
-        System.out.println("NIT: " + this.NIT + ", Nombre: " + this.nombre + ", Direccion:" + this.direccion);
+        System.out.println("No. "+ this.numero+ ", NIT: " + this.NIT + ", Nombre: " + this.nombre + ", Direccion:" + this.direccion);
+        
     }
 
 }
