@@ -1,0 +1,14 @@
+/home/mik3/Descargas/Almacen-Muchas-Cosas-master/AlmacenMuchasCosas/src/main/java/com/almacenmuchascosas/Main.java
+/home/mik3/Descargas/Almacen-Muchas-Cosas-master/AlmacenMuchasCosas/src/main/java/com/almacenmuchascosas/factura/Factura.java
+/home/mik3/Descargas/Almacen-Muchas-Cosas-master/AlmacenMuchasCosas/src/main/java/com/almacenmuchascosas/factura/FacturaCliente.java
+/home/mik3/Descargas/Almacen-Muchas-Cosas-master/AlmacenMuchasCosas/src/main/java/com/almacenmuchascosas/Almacen.java
+/home/mik3/Descargas/Almacen-Muchas-Cosas-master/AlmacenMuchasCosas/src/main/java/com/almacenmuchascosas/articulo/Articulo.java
+/home/mik3/Descargas/Almacen-Muchas-Cosas-master/AlmacenMuchasCosas/src/main/java/com/almacenmuchascosas/manejadores/ManejadorProveedores.java
+/home/mik3/Descargas/Almacen-Muchas-Cosas-master/AlmacenMuchasCosas/src/main/java/com/almacenmuchascosas/entidades/Entidad.java
+/home/mik3/Descargas/Almacen-Muchas-Cosas-master/AlmacenMuchasCosas/src/main/java/com/almacenmuchascosas/entidades/Proveedor.java
+/home/mik3/Descargas/Almacen-Muchas-Cosas-master/AlmacenMuchasCosas/src/main/java/com/almacenmuchascosas/manejadores/ManejadorFactura.java
+/home/mik3/Descargas/Almacen-Muchas-Cosas-master/AlmacenMuchasCosas/src/main/java/com/almacenmuchascosas/articulo/Transaccion.java
+/home/mik3/Descargas/Almacen-Muchas-Cosas-master/AlmacenMuchasCosas/src/main/java/com/almacenmuchascosas/entidades/Cliente.java
+/home/mik3/Descargas/Almacen-Muchas-Cosas-master/AlmacenMuchasCosas/src/main/java/com/almacenmuchascosas/manejadores/ManejadorArticulos.java
+/home/mik3/Descargas/Almacen-Muchas-Cosas-master/AlmacenMuchasCosas/src/main/java/com/almacenmuchascosas/factura/FacturaProveedor.java
+/home/mik3/Descargas/Almacen-Muchas-Cosas-master/AlmacenMuchasCosas/src/main/java/com/almacenmuchascosas/manejadores/ManejadorClientes.java

@@ -1,0 +1,8 @@
+com/almacenmuchascosas/Almacen.class
+com/almacenmuchascosas/Main.class
+com/almacenmuchascosas/entidades/Proveedor.class
+com/almacenmuchascosas/manejadores/ManejadorClientes.class
+com/almacenmuchascosas/factura/Factura.class
+com/almacenmuchascosas/entidades/Entidad.class
+com/almacenmuchascosas/entidades/Cliente.class
+com/almacenmuchascosas/factura/FacturaCliente.class
