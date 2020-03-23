@@ -1,0 +1,10 @@
+manejador proveedor
+//para buscar a los proveedores de la aborretería
+public void obtenerProveedor(String NIT, Proveedor proveedor){
+}
+  
+public void buscarProveedor(String NIT, Proveedor proveedor){
+}
+// para buscar los articulos de los proveedores
+public void obtenerArticulosProveedor(String NIT, Proveedor proveedor, Factura factura){
+}

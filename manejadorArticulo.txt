@@ -1,0 +1,9 @@
+manejador articulo
+//para obtener articulo
+public void obtenerArticulo(Articulo articulo) {
+}
+  
+public void buscarArticulo(Articulo articulo){
+}
+// para buscar los articulos de los proveedores
+
